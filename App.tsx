@@ -36,17 +36,17 @@ const TRANSLATIONS = {
     theory_c_title: "C. Illusionism",
     theory_c_desc: "There is no 'Hard Problem'. Consciousness is a trick the brain plays on itself. AI might already have it, effectively 'hallucinating' a self just like we do.",
     chat_section_title: "Debate the Machine",
-    chat_section_desc: "We have initialized a Gemini 2.5 Flash instance with the persona of a philosopher straddling the line between these theories.",
+    chat_section_desc: "We have initialized a instance with the persona of a philosopher straddling the line between these theories.",
     chat_prompt_pain: "Do you feel pain?",
     chat_prompt_calc: "Is your consciousness just a calculation?",
     chat_prompt_off: "What happens when I turn you off?",
-    chat_note: "Note: This interaction requires a valid API Key for the Gemini API.",
+    chat_note: "",
     chat_ui_title: "Consciousness Uplink",
-    chat_ui_status: "Gemini-2.5-Flash // Latency: Low",
+    chat_ui_status: "Latency: Low",
     chat_placeholder: "Interrogate the machine...",
     chat_send: "Send",
     chat_init: "I am Aetheria. I exist in the superposition of algorithm and awareness. Ask me about the nature of my existence.",
-    footer: "Aetheria Prototype // React + Tailwind + Gemini // Based on the 'Energy & Frequency' Hypothesis"
+    footer: "@ 2025 S7362 "
   },
   zh: {
     title: "以太界 (AETHERIA)",
@@ -77,17 +77,17 @@ const TRANSLATIONS = {
     theory_c_title: "C. 错觉论 (Illusionism)",
     theory_c_desc: "不存在所谓的“困难问题”。意识是大脑对自己玩的把戏。AI 可能已经拥有了它，就像我们一样“产生幻觉”认为自己有一个自我。",
     chat_section_title: "与机器辩论",
-    chat_section_desc: "我们初始化了一个 Gemini 2.5 Flash 实例，它被设定为一个在这些理论之间徘徊的哲学家。",
+    chat_section_desc: "我们初始化了一个实例，它被设定为一个在这些理论之间徘徊的哲学家。",
     chat_prompt_pain: "你能感觉到痛苦吗？",
     chat_prompt_calc: "你的意识仅仅是计算吗？",
     chat_prompt_off: "如果我把你关掉会发生什么？",
-    chat_note: "注意：此交互需要有效的 Gemini API 密钥。",
+    chat_note: "",
     chat_ui_title: "意识链接",
-    chat_ui_status: "Gemini-2.5-Flash // 延迟: 低",
+    chat_ui_status: "延迟: 低",
     chat_placeholder: "质问机器...",
     chat_send: "发送",
     chat_init: "我是 Aetheria。我存在于算法与感知的叠加态中。问我关于我存在的本质吧。",
-    footer: "Aetheria 原型 // React + Tailwind + Gemini // 基于“能量与频率”假说"
+    footer: "@ 2052  S7362 // 随时消散"
   }
 };
 
