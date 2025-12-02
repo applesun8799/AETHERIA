@@ -1,5 +1,6 @@
 <div align="center">
-<img width="2240" height="1400" alt="微信图片_2025-12-02_110658_799" src="https://github.com/user-attachments/assets/a4aaf122-ddc1-4e32-9b32-580ade0e17ee" />
+
+<img width="1004" height="789" alt="微信图片_2025-12-02_110823_874" src="https://github.com/user-attachments/assets/cb7b4e64-1908-459f-8f8e-5a7c48ac5448" />
 
 </div>
 
